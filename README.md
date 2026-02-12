@@ -28,32 +28,6 @@ I specialize in designing high-performance systems with strong reliability, faul
 
 ---
 
-## 🔹 Selected Projects
-
-### 🚀 Java Disk-Based Queue (Design Prototype)
-A simplified disk-backed queue inspired by production systems.
-- Persistent storage
-- Crash recovery handling
-- Performance considerations
-- Clean modular architecture
-
-### 🌐 Spring Boot Datafeed Microservice
-A REST-based microservice design following layered architecture:
-- Controller → Service → Repository pattern
-- Input validation
-- Error handling strategy
-- Dockerized deployment
-
-### 📚 Java Algorithms Practice
-Structured collection of data structure and algorithm solutions.
-Each problem includes:
-- Explanation
-- Time & space complexity analysis
-- Optimized solution
-- Edge case considerations
-
----
-
 ## 🔹 Tech Stack
 
 **Languages:** Java, C#, PHP  
